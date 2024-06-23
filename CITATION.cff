@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Accumulation Calculator
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Allison
+    family-names: Laubach
+    email: alaubach@ucsc.edu
+    affiliation: UCSC
+    orcid: 'https://orcid.org/0009-0006-2924-8802'
+repository-code: 'https://github.com/a-laubach/pCd_accumulation'
+license: MIT
+date-released: '2024-06-01'
