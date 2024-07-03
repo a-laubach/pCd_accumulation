@@ -15,10 +15,7 @@ By default, the implementation in `example_alg.m` loads data from `GP15_Stn33_ex
 The algorithm has several calculation options that can be adjusted in the `opts` structure. By default, they are set to the values used for our calculations. Similarly, the `plt` structure has options to plot station profiles of the original fit equation and/or the final fit equation after accumulation points have been identified. By default, both options are set to 1 to create figures. Change these values to 0 to suppress figures. 
 
 ## Authors
-[A. Laubach](alaubach@ucsc.ed)
-
-## Version History
-0.1 Initial Release
+A. Laubach: alaubach@ucsc.edu
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
